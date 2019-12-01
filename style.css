@@ -1,0 +1,30 @@
+ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+
+img {
+	padding: 200px 0px 0px 600px;
+} 
+
+
+form {
+	padding: 0px 0px 400px 850px;
+} 
+
+ul {
+	position: fixed;
+	bottom: 0;
+	Width: 100%;
+	padding: 0
+	margin: 0
+
+}
+
+
